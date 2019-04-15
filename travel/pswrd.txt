@@ -1,0 +1,2 @@
+Login Details for admin : admin/123456
+Login Details for user: anuj@gmail.com/Test@123
